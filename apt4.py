@@ -1,5 +1,5 @@
-aluno = 'Aluno:Wallace Salvador Ferreira da Silva'
-ru = 'Ru:3923326'
+aluno = 'Aluno:Wallace Silva'
+ru = 'Ru:3236'
 print((len(aluno)*'*')+(len(ru)*'*')+(3*'*'))
 print(f"{aluno}, {ru}")
 print((len(aluno)*'*')+(len(ru)*'*')+(3*'*'))
