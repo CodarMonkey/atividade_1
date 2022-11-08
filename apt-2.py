@@ -1,5 +1,5 @@
-aluno = 'Wallace Salvador Ferreira da Silva'
-ru = '3923326'
+aluno = 'Wallace Silva'
+ru = '3236'
 print(f"------------Aluno: {aluno}, Ru: {ru}------------")
 
 tr = {'p': 6, 'm': 10, 'g': 18, 'tr': 'Sabores Tradicionais'}
